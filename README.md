@@ -1,7 +1,7 @@
 # A first-level heading
-** testing bold **
+**testing bold**
 
-* italic*
+*italic*
 
 <ins> 
 bew bew bew
